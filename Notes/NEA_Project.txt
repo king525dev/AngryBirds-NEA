@@ -1,0 +1,72 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-06-24T15:01:56+01:00
+
+====== NEA Project ======
+Created Monday 24 June 2024
+
+Creating a Geometry Dash clone in Unity can be an exciting project! Here are some steps to get you started:
+
+1. **Artwork and Assets**:
+   - Design or find the artwork for your game elements (like the cube character, obstacles, and background).
+   - Import these assets into Unity.
+
+2. **Player Movement**:
+   - Create a player object (e.g., the cube).
+   - Add a rigid body component to it.
+   - Write a script to handle movement (e.g., constant rightward motion) using the rigid body's velocity.
+
+3. **Obstacles and Level Design**:
+   - Place obstacles (spikes, platforms, etc.) in your level.
+   - Design interesting and challenging levels.
+   - Consider using a tilemap system for level creation.
+
+4. **Physics and Collisions**:
+   - Set up collision detection between the player and obstacles.
+   - Use box colliders for simple shapes.
+
+5. **Camera Movement**:
+   - Create a camera that follows the player.
+   - Adjust camera position based on player movement.
+
+6. **Audio and Music**:
+   - Add background music and sound effects.
+   - Trigger audio events (e.g., when the player jumps or hits an obstacle).
+
+7. **UI and Menus**:
+   - Create menus (main menu, level selection, etc.).
+   - Implement UI elements (score display, lives, etc.).
+
+8. **Level Progression**:
+   - Track progress (distance covered, score, etc.).
+   - Implement checkpoints and respawn points.
+
+9. **Testing and Polishing**:
+   - Test your game thoroughly.
+   - Fine-tune gameplay mechanics, difficulty, and controls.
+   - Optimize performance.
+
+10. **Learn from Existing Tutorials**:
+	- Check out tutorials like:
+	  - [How to create a Geometry Dash clone using Unity](https://www.youtube.com/watch?v=0uETfvUGG7c) ¹
+	  - [Building Geometry Dash In Unity: Step-by-Step Guide](https://www.youtube.com/watch?v=T4ISSILMZD4) ²
+	  - [Making a Geometry Dash Clone in Unity in TWO MINUTES!](https://www.youtube.com/watch?v=J4xdcKmX7Ys) ³
+
+Remember, game development is a journey, and you'll encounter challenges along the way. Enjoy the process and have fun creating your own rhythmic platformer! 🎮✨
+
+Source: Conversation with Copilot, 24/06/2024
+(1) How to create a Geometry Dash clone using Unity - Episode 1. https://www.youtube.com/watch?v=0uETfvUGG7c.
+(2) Building Geometry Dash In Unity: Step-by-Step Guide [EP5]. https://www.youtube.com/watch?v=T4ISSILMZD4.
+(3) Making a Geometry Dash Clone in Unity in TWO MINUTES!. https://www.youtube.com/watch?v=J4xdcKmX7Ys.
+(4) Create a Mobile Game Like Geometry Dash in Unity. https://unityunreal.com/tutorials/4478-create-a-mobile-game-like-geometry-dash-in-unity.html.
+(5) How would you make a jump like geometry dash/impossible game ... - Unity. https://discussions.unity.com/t/how-would-you-make-a-jump-like-geometry-dash-impossible-game/112849.
+(6) Geometry Dash clone that has been made by using Unity Engine. https://github.com/rifkikesepara/GeometryDash-Clone.
+(7) undefined. https://github.com/ginosesia.
+
+- Angry Birds
+- Pac Man
+- Geometry Dash
+- Music Classification
+
+wandering in to the coding club
+

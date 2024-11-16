@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-09-15T18:58:48+01:00
+
+====== Links ======
+Created Sunday 15 September 2024
+
+How to build music classification - https://www.geeksforgeeks.org/music-genre-classifier-using-machine-learning/
+Youtube Music API py - https://ytmusicapi.readthedocs.io/en/stable/index.html
+Youtube Music API js - https://github.com/vladdenisov/ytmusic-api
+How to build v2 - https://github.com/vladdenisov/ytmusic-api

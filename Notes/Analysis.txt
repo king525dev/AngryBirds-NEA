@@ -1,0 +1,281 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-08-19T23:12:14+01:00
+
+====== Analysis ======
+Created Monday 19 August 2024
+
+**Problem:** To simulates the effects of projectiles on various materials while providing a form of entertainment.
+
+**Computational methods:** The use of physics engines like that of "Unity" will be greatly advantageous
+
+===== Outline =====
+My project will be a recreation of my childhood favourite (and very popular) game called "Angry Birds".  Angry Birds is a classic 2000s game involving flinging projectiles (Birds) at various structures containing targets (pigs) to hurt them sufficiently. The player is restricted from advancing to the next level unless all the targets have been eliminated. Though eliminating the game is the primary target, the player is also further meant to cause as much destruction as possible to gain as many points as possible. The elimination of targets and the amount of destruction caused in the process will add up to form the final score.
+
+In the game, the entities included will be: projectiles (birds) to lauch at the target; the target (pig) to be the aim of the projectile; projectile launcher (slingshot) to launch the birds, breakable and unbreakable obstacles (blocks) to make the game difficult. Whereas, objects visible to the player only will be the score indicator to show the current score and the stored highscore; bird (projectile) count to show how many birds the user has left, and a menu button to pause and play the game.
+
+===== Stakeholders =====
+The original Angry Birds game is a mobile game, however, I have decided to make a PC adaptation of the game ( If time permits, I can recreate the game in mobile for more convienience). Therefore, this means this game is suited for the casual PC gamer, a person that takes the time out of his day to play PC games. Furthermore, due to the casual, puzzle solving nature of the game, the target demographic will be between mostly 10 - 22 years of age because this the optimal PC gamer age according to statista.
+This is why I have choosen Feyisayo Zollner as a representation of my target audience. He is a seventeen-year-old student in my computing class that is interested in video games.  We have also both enjoyed playing Angry Birds together in the past and he will be delighted to see a PC version. Since we are in the same computing class, I will also have regular contact with him.
+
+===== How this Problem can be Solved by Computational Methods =====
+The game can ideally be solved by computers due to how easy it is to abstract unnecesary variables and implement computational algorithms to simulate a certain game scenerio.
+
+==== Thinking Abstractly ====
+Abstraction is the process of removing unnecesaary details for simplicity purposes. My game isn't a based fully in a realistic scenerio, therefore, abstraction is required. The following are use cases of abstractions in my Angry Birds Game:
+* Remove unnnecessary variables like Air resistance.
+* Add a bright, user friendly, cartoony environment to make the game visually appealling
+* Restrict the game to 2 dimensions
+* Add a bar at the top and bottom to show information like the number of birds remaining or number of points scored
+
+==== Thinking Ahead ====
+Thinking ahead involves identifying the preconditions of a system like the inputs, outputs and resuseable components. This is a way of looking ahead and knowing what you want. It allows you to plan a bit giving the solution of your problem a bit of structure. 
+* A points system will be utilized to give the user feedback on their performance in the game.
+* Each game entity will be written as an object with different methods so it can easily be re-used in different components of the code
+* Due to the nature of controlling a projectile launcher (slingshot), the user will be advised to make use of a mouse to play the game effectively
+* I plan to use the Unity engine to simulate the physics because of its open source nature
+* Due to my use of the Unity Engine, I plane to use the Unity IDE to develop my game
+
+==== Thinking Procedurally ====
+A game as complex as Angry BIrds will be required to be broken into many parts to simplify the process of making it. I have decided to make each enitity in the game an object with a bunch of methods and attributes.
+
+Angry-Birds: {
+	GameState:{
+		Paused, 
+		Playing,
+		Menu,
+		Over,
+	}
+	Player:{
+		Aiming, 
+		Release
+	}
+	Entities:{
+		Bird: {
+			usedState,
+			unusedState
+		},
+		Pig: {
+			normalState,
+			poppedState
+		},
+		Blocks: {
+			brokenState, 
+			unBrokenState
+		}
+	},
+	Control: {
+		AimingControl, 
+		LaunchControl, 
+		Pause,        
+		Restart     
+	},
+	Score:{
+		Win:{
+			HighScore
+		},
+		Loss,
+		LevelScore,
+	}
+}
+
+I have broken down **Angry Birds** into five main areas to ensure smooth gameplay and user interaction. These areas focus on the essential elements, from how the game progresses to how players control the birds and score points:
+
+1. **GameState**: This area defines the various phases of the game, such as:
+	* **Menu**: Where the game begins, allowing the player to start a new game or review instructions.
+	* **Playing**: The primary state where the action occurs as the player aims and releases birds.
+	* **Paused**: Halts the game, providing a break when necessary.
+	* **Over**: Indicates whether the player has won or lost after all pigs are defeated or attempts exhausted.
+
+2. **Player**: This section handles the actions controlled by the player, such as:
+	* **Aiming**: The player adjusts the bird’s trajectory using the slingshot.
+	* **Release**: The player lets go of the slingshot, launching the bird toward the pigs.
+
+3. **Entities**: These are the in-game objects like birds, pigs, and blocks, which react to player actions:
+	* **Birds**: Can be in an **unusedState** (ready to be launched) or **usedState** (launched and interacting with blocks or pigs).
+	* **Pigs**: Can exist in a **normalState** (undamaged) or **poppedState** (eliminated after being hit).
+	* **Blocks**: Remain in an **unBrokenState** (intact) until hit, transitioning into a **brokenState** (destroyed).
+
+4. **Control**: This section manages how the player interacts with the game, including:
+	* **AimingControl**: Adjusts the slingshot’s direction and power.
+	* **LaunchControl**: Releases the bird from the slingshot.
+	* **Pause**: Freezes gameplay.
+	* **Restart**: Resets the current level, allowing a fresh attempt.
+
+5. **Score**: This is the system that tracks and rewards player performance:
+	* **Win**: Achieved by defeating all pigs and achieving the **HighScore**.
+	* **Loss**: Occurs if the player fails to clear all pigs.
+	* **LevelScore**: Determined by the number of blocks destroyed, pigs popped, and remaining birds.
+
+This structure ensures the game flows smoothly, with each area working together to create a fun and challenging experience for players.
+
+==== Thinking Logically ====
+Thinking logically involves identifying points in which decesions wil be made through out the game. As the game is running, there will be a constant iteration searching for the following conditions: 
+* The "menu" state will determine if the game is paused or playing
+* If a pig is hit, a decision if made to award the player more points than if a regular block
+* The number of birds and number of pigs left will be continuously monitored to determine if the game should transition to a “game over” or “win” state. For instance, if there are no birds remaining but targets are still present, it results in a game over.
+
+==== Thinking Concurrently ====
+Being a game, alot of processes will be required to run at the same time to give real time updates to the user. Processes such as:
+* Audio effects like bird launches, pig squeals, and block destruction occur in sync with the game’s visuals, ensuring that sound is triggered concurrently with corresponding events.
+* The game constantly calculates the player’s score based on the number of pigs popped, blocks destroyed, and remaining birds. This score calculation is happening in real-time, even while the player is still launching birds.
+* As the game progresses, the game continuously updates the states of objects (e.g., birds, blocks, and pigs). Birds switch between unused and used states, pigs between normal and popped states, and blocks between unbroken and broken states, all happening independently and concurrently.
+
+==== Conclusion ====
+The earlier examples have shown that the characteristics of my problem can be addressed using computational methods, making it ideal for a computer program. These methods help structure the problem, making it easier to solve and thus well-suited for a computer-based solution.
+
+===== Research =====
+
+==== Interview with Stakeholder ====
+
+=== Plan ===
+The main points I hope to get from this interview include:
+* Basic Requirements for the game
+* Design Changes to the game
+* Changes in the physics of the game
+
+Expanding on these main points, I have come up with questions under the topic of these main points: 
+
+**Basic Requirements for the game**
+	* How many different birds should be made for the bare requirements?
+	* Should these birds have unique abilities like in the classic game?
+	* What other features would you want the birds to have?
+	* Is a score panel a key element for the game, or do you think the game could work without it?
+	* How important is a high score panel to keep players engaged?
+	* Should this be a feature, and how would you like it displayed (global leaderboard, personal best)?
+	* What must absolutely be included for this to feel like a complete Angry Birds game?
+
+**Design Changes to the game**
+	* Having played Angry Birds Classic before, what changes will you wish to have implemented design wise?
+	* Should the game be more realistic, or should it keep its original cartoonish style?
+	* How important is the look of the birds and pigs in enhancing the player's experience?
+	* Would you like the backgrounds and levels to be more interactive or dynamic in nature?
+	* What sort of animations or visual elements would you want to see?
+	* Should there be more exaggerated reactions when pigs are popped or blocks are destroyed?
+	* Should the game feature more detailed environments, weather effects, or lighting changes?
+
+**Changes in the physics of the game**
+	* Should the game physics be more realistic, or do you prefer the exaggerated, cartoonish physics from the original?
+	* If so, what would you like to implement?
+	* Should bird flight paths be affected by environmental factors (wind, etc.) to add realism or new challenges?
+	* Should blocks break more realistically based on material type (e.g., wood vs. stone)?
+	* Should birds interact differently with various obstacles or environments (e.g., water, ice, etc.)?
+
+=== Interview Script ===
+
+To start, how many different birds do you think should be made for the bare requirements of the game?
+	- I think just adding "Red", the original bird with no special abilities, would be enough to start. We can always introduce more birds with abilities as the game progresses.
+
+Should these birds have unique abilities like in the classic game?
+	-Yes, as the game progresses, introducing birds with unique abilities will definitely add variety and keep it interesting.
+
+What other features would you want the birds to have?
+	 - Keep them mostly the same as the original. People already like the way they are, and it worked well before, so no need to reinvent the wheel there.
+
+Is a score panel a key element for the game, or do you think the game could work without it?
+	- It’s nice to have, but not essential for the bare bones of the game. The main thing is that I can fling birds at pigs and eliminate them. The score is more like motivation to replay a level or compare with friends. If you are implementing the score panel though, I think that you should make it so that you can compare scores on different levels with people all over the world or atleast your friends.
+
+How important is a high score panel to keep players engaged?
+	- It’s not essential but would be awesome to have. I used to love comparing my high scores with friends or other players all around the world, and it definitely made the game more competitive. But first, focus on the core gameplay, then add this. 
+
+Should this be a feature, and how would you like it displayed? (Global leaderboard, personal best?)
+	- Both would be great! It’s always fun to see a personal best, but having a global leaderboard adds that extra competitive edge.
+
+What else must absolutely be included for this to feel like a complete Angry Birds game?
+	 - It just needs to be a cool puzzle game where I fling birds at pigs and deal with a few obstacles in between. That’s what makes Angry Birds great for me.
+
+Having played Angry Birds Classic before, what changes would you wish to see design-wise?
+	- I think the new "Angry Birds 2" is a bit too animated for my liking. I prefer the simplicity of the original. But I do like how in "Angry Birds 2" the birds are shown in a bar on the screen—it’s nice to see all the birds lined up like that rather than how it is in the classic.
+
+Should the game be more realistic, or should it keep its original cartoonish style?
+	- Keep it cartoonish. I don’t want it looking like the Minecraft movie
+
+How important is the look of the birds and pigs in enhancing the player's experience?
+	 - Very important. I think they already look good, so no need to change their art style much. The original design worked really well.
+
+ Would you like the backgrounds and levels to be more interactive or dynamic in nature?
+	- Yeah, a static background could look boring after a while. Maybe a background with trees and some movement to make it more interesting.
+
+What sort of animations or visual elements would you want to see?
+	 - Keep the animations similar to the classic game. Nothing too fancy.
+
+Should there be more exaggerated reactions when pigs are popped or blocks are destroyed?
+	- Nah, keep it simple. The reactions in the classic game were fun without being over the top.
+
+Should the game feature more detailed environments, weather effects, or lighting changes?
+	- It would be nice, but it risks making the game look too much like Angry Birds 2. So, be careful with adding too many effects.
+
+Should the game physics be more realistic, or do you prefer the exaggerated, cartoonish physics from the original?
+	- I like the cartoonish physics, but the only thing I didn’t like was how the birds lost all their momentum when hitting a block. It gets kinda annoying. Maybe tweak that a bit.
+
+Should bird flight paths be affected by environmental factors like wind, or would that complicate things?
+	- No, please don’t add wind resistance. It would make things unnecessarily difficult.
+
+Should blocks break more realistically based on their material type, like wood versus stone?
+	- Yeah, I think that would be cool. Blocks should definitely break differently depending on their material.
+
+Should birds interact differently with various obstacles or environments (e.g., water, ice, etc.)?
+	- That would be harder to implement, but yeah, it would be good to see birds interact differently with different materials.
+
+=== Review ===
+
+This interview was conducted to gather the stakeholder’s input on what would make the Angry Birds game enjoyable and functional. After discussing the key elements, the stakeholder and I agreed that simplicity is essential for the game’s core design, with the main objective being a puzzle-solving experience where the player uses birds to eliminate pigs.
+
+For the basic requirements, the stakeholder expressed that adding just the original "Red" bird with no special abilities would suffice to start, ensuring the focus is on delivering the fundamental mechanics of the game. The idea is to keep the game simple at first, then progressively introduce more features, such as birds with unique abilities and additional challenges as the game advances.
+
+Regarding gameplay features, the stakeholder felt that tracking progress, such as scoreboards and high score panels, isn't crucial for the game's initial version. The primary focus should be on allowing players to complete the core objective of eliminating pigs using birds. However, once the basic gameplay is polished, the inclusion of a score panel or leaderboard would be a great addition to enhance competitiveness and replayability.
+
+In terms of visual design, the stakeholder preferred keeping the cartoonish style of the original Angry Birds, avoiding an overly animated or realistic look. The key takeaway here was that the birds, pigs, and overall aesthetic should stay true to the classic game, with minor tweaks like having backgrounds that are slightly more dynamic to prevent the environment from feeling static.
+
+When discussing physics, it was agreed that the exaggerated, cartoonish physics from the original should remain, with the only requested change being to adjust how birds interact with blocks to prevent them from losing all momentum when hitting obstacles. This small tweak would improve gameplay while still keeping the game fun and familiar.
+
+In conclusion, the stakeholder emphasized that the game should start simple, focusing on its core mechanics of solving puzzles by eliminating pigs. Additional features, such as more birds, complex scoring systems, and enhanced visuals, can be scaled up later, once the core gameplay has been fine-tuned.
+
+==== Game Comparisons ====
+To properly research on how the game is meant to look like, I decided to examine a fairly similar game to what I want to create, Angry Birds 2 and Angry Birds Classic. 
+
+Angry Birds Classic is a popular puzzle game developed by Rovio Entertainment. In this game, players use a slingshot to launch various birds at green pigs stationed in or around different structures. The goal is to destroy all the pigs on the playing field. Each bird has unique abilities that can be used strategically to dismantle the pigs’ defenses. This is how I aspire the game to look like. This is a screen shot of a classic level in the game:
+
+From the screenshot, I have decided to pick a few features from this to emulate in my game. The style of the highscore 
+
+===== Success Criteria =====
+
+As per the feedback from the interview, I am going to divide my success criteria into parts; The Bare Essentials and the Extra Features.
+
+| Feature                          <| Description                                                                                                                                                     <|
+|:----------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Slingshot                         | This is the main tool used by the player to launch birds at the structures. It adds a layer of strategy as players must aim and control the power of each shot.  |
+| Bird                              | The bird acts as the projectile in the game, with each type having different abilities. This creates variety and adds depth to the gameplay.                     |
+| Blocks                            | These form the structures that protect the pigs. Different types of blocks (wood, ice, stone) behave uniquely, making the game more challenging.                 |
+| Pig                               | The main target in each level. Eliminating all pigs is necessary to complete the level. Their placement within structures makes strategic destruction essential. |
+| Background                        | This sets the visual tone of the game and helps differentiate levels. While not crucial to gameplay, it adds to the game’s aesthetic and experience.             |
+| Shooting the Bird at the Pig      | The core gameplay mechanic. Successfully aiming the bird at the pigs and causing destruction is the main objective of the game.                                  |
+| Pigs Disappearing After Being Hit | This provides feedback to the player that they’ve successfully hit their target and moves them closer to winning the level.                                      |
+| Basic Sound Effects               | Simple sound effects, such as the bird being launched or blocks breaking, enhance the game's feedback and immersion.                                             |
+| Basic Physics for Blocks          | Physics governs how blocks fall and break, which creates more dynamic and engaging gameplay as players have to predict how structures will collapse.             |
+| <td />                            | <td />                                                                                                                                                           |
+
+After Implementing these features, I will further try and implement these other features
+
+| Feature                 <| Description                                                                                                                                                                                  <|
+|:-------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Menu                     | The central hub of the game where players can start a game, view options, and navigate to other sections. It provides an easy way to access different game modes and settings.                |
+| Pause                    | Allows the player to pause the game and take a break, offering the ability to resume or quit without losing progress. Essential for longer gameplay sessions.                                 |
+| Score System             | Tracks the player's points during each level based on performance, such as how quickly the pigs are eliminated or how many birds are left. It provides feedback and encourages replayability. |
+| High Score System        | Allows players to track their best performances across different levels, adding a competitive element as players aim to beat their previous records or compete with friends.                  |
+| Powerups                 | Special abilities that can be used to enhance gameplay, such as making birds stronger or giving them extra abilities. These add excitement and variety to levels.                             |
+| Levels                   | The individual stages of the game, each with its own unique layout of pigs, structures, and challenges. Players progress by completing each level.                                            |
+| Level Viewer Screen      | Displays all available levels for the player to select and shows which levels have been completed or unlocked. This provides a sense of progression.                                          |
+| Loading Screen           | Briefly shown when levels or game elements are being prepared. This maintains immersion by keeping players informed during transitions between gameplay and menus.                            |
+| Menu Page                | The primary screen that provides navigation options such as starting the game, viewing achievements, or adjusting settings. It serves as the game’s entry point.                              |
+| Different Types of Birds | Adds variety to the gameplay, with each bird having its own unique ability. This challenges the player to use strategy in selecting the right bird for the right situation.                   |
+| 10 Levels                | A baseline number of stages to provide enough content for players to engage with the game without being too overwhelming in early development. Provides a balance between variety and scope.  |
+| Extra Block Types        | Additional block materials (such as metal or glass) that behave differently when hit by birds, adding complexity and strategy to how players approach each level.                             |
+
+===== Limitations =====
+The stakeholder mentioned that if we implement the score panel feature, that it should be available to compare with other players around the world. Though this would be a really good feature to implement, I noticed that implementing a feature like this will involve finding a place to store the user data online, and socket request which is beyond the scope of my project because there isn't enough time to implement this
+
+===== Software and Hardware Requirements =====
+
+
+
