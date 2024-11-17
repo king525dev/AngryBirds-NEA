@@ -1,0 +1,175 @@
+ANGRY BIRDS
+	Game Play
+		Background
+			Sky
+			Ground
+		Entities
+			Birds
+				Not In Use
+				In Sling Shot
+					In Sling Shot Sound
+				Used
+				No. of Available Birds
+			Pigs
+				Active
+					Active-Sound
+				Popped
+					Popped-Sound
+			Blocks
+				Active
+				Broken
+					Broken-Sound
+				Rectangular
+				Square
+			Sling Shot
+				Inactive
+				Active
+					Active-Sound
+	Game Over
+		Game Over Sound
+		Game Over Text
+		Restart Button
+		Quit Button
+	Game Win
+		Game Win Sound
+		Game Win Text
+		Restart Button
+		Next Level Button
+		Quit Button
+				
+
+
+======================================================================
+
+PROMPT
+
+===
+
+
+This is the systems hierarchy diagram of an Angry Birds game I am making:`
+ANGRY BIRDS
+	Game Play
+		Background
+			Sky
+			Ground
+		Entities
+			Birds
+				Not In Use
+				In Sling Shot
+					In Sling Shot Sound
+				Used
+				No. of Available Birds
+			Pigs
+				Active
+					Active-Sound
+				Popped
+					Popped-Sound
+			Blocks
+				Active
+				Broken
+					Broken-Sound
+				Rectangular
+				Square
+			Sling Shot
+				Inactive
+				Active
+					Active-Sound
+	Game Over
+		Game Over Sound
+		Game Over Text
+		Restart Button
+		Quit Button
+	Game Win
+		Game Win Sound
+		Game Win Text
+		Restart Button
+		Next Level Button
+		Quit Button
+				`
+
+Please elaborate on each of these components one by one. U can use the comment below to form your answer:
+
+`
+Angry Birds is simply the main game object, it will be divided into three states, the gameplay, game over and game win.
+game play is the the actual gameplay of the game, it consists of entities and background
+The background consist of the sky and the ground [`come up wit explanations for these`] it will also deal with the camera movement as the camera will always adjust to the bird currently being used.
+The entities consist of objects that will move or appear and disappear through out the game. they include the bird, which it the projectile to be launched, it will have its unique sound when Not in use, in the Slingshot, and when used. 
+The pig is the target, when hit with a certain force to be calculated by the physics engine, it "pops", therefore its active and popped state. it will make a sound when popped. The blocks have the same mechanics as the pig but will require a bit more force to break and will not the player will not gain as much points (if a points system is implemented in the future) if broken. It is there to protect the pigs. The slingHot will simply have an Active state when the player clicks around it to lauch the bird in a certain direction. therefore making a rubber stretching sound, and an inactive state. THe gameover portion will simply have a dark overlay over the gameplay and have a piece of text informing the player that they have lost. A loss occurs when there are no more available birds while there are still pigs that are still active. it will also contain options like restarting or quiting and play a sound once when it comes up. the game win is the same but activates in a win state. a win is when the number of pigs that are active is zero. if implemented in the future, poins wil be displayed along with buttons to the next level and the rest.
+
+`
+
+
+====RES
+
+Here's a detailed explanation for each component in your **Angry Birds** game system hierarchy:
+
+---
+
+### **ANGRY BIRDS**
+The **Angry Birds** object serves as the main container for the entire game, encapsulating its three major states:
+1. **Gameplay:** The interactive phase where the player engages in launching birds and targeting pigs.
+2. **Game Over:** Triggered when all available birds are used but some pigs remain active.
+3. **Game Win:** Triggered when all pigs are eliminated.
+
+---
+
+### **Game Play**
+This state represents the core interactive gameplay, comprising:
+#### **Background**
+1. **Sky:**
+   - Represents the top portion of the screen. The sky provides aesthetic appeal and acts as a visual backdrop.
+   - The sky might dynamically change based on the time of day or the level.
+2. **Ground:**
+   - Forms the base where structures, pigs, and the slingshot are placed.
+   - Ground physics ensure birds, blocks, or pigs that fall onto it behave realistically.
+3. **Camera Movement:**
+   - The camera follows the currently active bird. This ensures the player maintains focus on the action and enhances immersion.
+
+#### **Entities**
+These are interactive elements within the game world:
+1. **Birds:**
+   - The primary projectile, with distinct states:
+     - **Not In Use:** Birds waiting in a queue for their turn to be launched.
+       - A subtle idle animation and sound effect could enhance realism.
+     - **In Sling Shot:** Birds being aimed and prepared for launch.
+       - Includes a sound effect (e.g., a stretching sound).
+     - **Used:** Birds that have been launched and either hit a target or missed.
+   - **No. of Available Birds:** Tracks how many birds are left for launching.
+2. **Pigs:**
+   - The targets in the game, with two primary states:
+     - **Active:** Pigs are alive and require elimination. They might display idle animations and sound effects.
+     - **Popped:** Pigs disappear with an animation and a “pop” sound when hit with sufficient force.
+3. **Blocks:**
+   - Structures that protect the pigs. They can be destroyed with force and have the following characteristics:
+     - **Active:** Undamaged and in position.
+     - **Broken:** Destroyed, typically via collisions with birds or other blocks.
+       - **Broken-Sound:** A unique sound effect plays upon destruction.
+     - **Types:** Rectangular and Square blocks offer variation in gameplay strategy.
+4. **Sling Shot:**
+   - The launching mechanism for the birds. States include:
+     - **Inactive:** When not in use.
+     - **Active:** When the player interacts with it to aim and launch a bird.
+       - Includes an “active sound” for stretching rubber.
+
+---
+
+### **Game Over**
+This state signifies the end of the game if the player loses:
+1. **Game Over Sound:** A single sound effect to signal failure.
+2. **Game Over Text:** Displays a message such as “Game Over” on the screen.
+3. **Restart Button:** Allows the player to restart the current level.
+4. **Quit Button:** Provides an option to exit the game or return to the main menu.
+
+---
+
+### **Game Win**
+This state is triggered when the player successfully eliminates all active pigs:
+1. **Game Win Sound:** Plays celebratory audio upon victory.
+2. **Game Win Text:** Displays a congratulatory message.
+3. **Restart Button:** Enables the player to replay the level for better performance.
+4. **Next Level Button:** Progresses to the subsequent level (if implemented).
+5. **Quit Button:** Allows the player to exit the game or return to the main menu.
+
+---
+
+This hierarchy ensures clarity in structuring the game's components, states, and interactions, making it easier to develop and expand upon the Angry Birds game.
