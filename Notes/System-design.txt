@@ -172,4 +172,4 @@ This state is triggered when the player successfully eliminates all active pigs:
 
 ---
 
-This hierarchy ensures clarity in structuring the game's components, states, and interactions, making it easier to develop and expand upon the Angry Birds game.
+This hierarchy ensures clarity in structuring the game's components, states, and interactions, making it easier to develop and expand upon the Angry Birds game. By employing a top-down module design, I can effectively identify the necessary components before beginning the coding process. This approach allows me to decompose the problem into smaller, more manageable parts, enabling a focused examination of each segment. Utilizing the computational thinking skill of "thinking ahead," I can determine the required inputs and outputs. Additionally, "thinking logically" helps me pinpoint where decisions are needed and understand their impact on other parts of the solution. This structured methodology ensures that my working solution is both systematic and efficient, guiding me towards a well-organized and effective outcome.
