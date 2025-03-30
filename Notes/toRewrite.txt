@@ -1,16 +1,49 @@
 Created Game manager script to control the number of birds regenerated. It has methods to count the number of shots when the player launches a bird and also check if the number of shot exceed the maximum number of shots allowed in the level. This is to make the game competitive and challenging as preferred by my stakeholder. In the Slingshot Object, I imported the Game Object Script through the Use of a "singleton" instead of creating a serialized variable like last like i have been doing previously because unlike other objects, the Game manager will only every have one copy in the entire codebase (UNlike an Angry Bird). Thus, I dont need to import it. I used the methods of the Game Object to constantly check how many birds has been shot and if it has reached the max condition.
 
-Designed An Icon to signify the amount of Birds left. Stakeholder mentioned in the analysis section that he wanted a card-like system like the new ANgry BIrds 2 instead of birds being animated by the screenshot, like the classic game. So i decided to make an Icon system instead that shows you how many birds you have left to play which is similar to the card system.
+After creating a system to limit the number of birds, i decided it will on be fair to notify the player of the number of birds left. so, I designed An Icon to signify the amount of Birds left. My Stakeholder mentioned in the analysis section that he wanted a card-like system like the new ANgry BIrds 2 instead of birds being animated by the screenshot, like the classic game. So i decided to make an Icon system instead that shows you how many birds you have left to play which is similar to the card system. The system consist of the number of birds below the screen as icons representing which bird is in use, then when the player uses a bird, one of the icon dims to signify it has been used.
 
 Coded an IconHandler script to darken the colour of the icons when a bird has been shot to show that the player has used a bird. I referenced the IconHandler Script in the Game Object script through a search method and implemented the function to be called when increasing the Shot NUmber.
 
-Designed the blocks sprites that the bird will break. Built a simple structure with the blocks afterwards as a level.
+Designed the blocks sprites that the bird will hit. Built a simple structure with the blocks afterwards as a level.
 
-Designed the Sprite for the piggie afterwards. Wrote a script that gives the pig a maximum health at the beginning of the game then takes away from that health when it collides with something. I also added a damage threshold because i realised that it will take damage for any small collision that occurs. I wanted to use the momentum of the collision to calculate the damage but since the objects dont have assigned masses, i just used the velocity.
+Designed the Sprite for the piggie afterwards, used a sprite that is very similar to the classic game because of so far, everything has that style.
+Wrote a script that gives the pig a maximum health at the beginning of the game then takes away from that health when it collides with something. I also added a damage threshold because i realised that it will take damage for any small collision that occurs. I wanted to use the momentum of the collision to calculate the damage but since the objects dont have assigned masses, i just used the velocity.
 
 Wrote a game managing script that determines when the game has been won or lost. The program checks if the number of pigs in the level is zero after all the birds have been used to see if its a win or loss case. I also made the game manager check the win condition everytime a bird is launched. To test this i did a log test for the game to give me a log when it thinks the game has been won or not
 
-Next I finally programmed what will happen when the player wins or loses the game. If the player loses the game, the level reloads. while if the player win some text is added to the screen and the player has the option of restarting.
-
+After writing the program that determines whether a player has won or lost, It was now time to further write a program that will execute when the game has been either won or lost. To keep things simple, i decided to go for simple functions for now then i will improve on them lager if i have time. 
+If the player won, the game shows a win screen and the option to restart the game while if a player loses then the game automatically restarts since there is only one level to play for now. 
 I  first programmed the loss condition because it is easier, just a simple script to reload the scene. But for the win condition, I had to first design	a suitable restart screen to use.
-then I wrote a script to activate it when the player wins the game. I also wrote a script to disable the slingshot as the player should not be allowed to operate it when the game has been won. As of now, the basic game requirements have been met.
+then I wrote a script to activate it when the player wins the game. I also wrote a script to disable the slingshot as the player should not be allowed to operate it when the game has been won. As of now, the very basic game requirements have been met.
+
+Now to make the experience more visually appealing, I have decided to add particle effects for when the pigs get popped.
+
+I decided to animate the pig popping by adding after effects. This is because my stakeholder thought later considered the popping animation to be useful because it made the game look "unreal". I started of by going through some particle effects till i decided to go for the classic smoke effect at the end. Refer to the gameplay displayed later on as a reference
+
+The objective is 
+
+After going through testing each component of the basic criteria, I can confidently saw that the basic requirement of the game have been met. 
+next, I am going to go through the extra features that I wished to have added earlier in my analysis
+
+After thoroughly testing each component of the basic game mechanics, I can confidently say that the core requirements of the game have been successfully implemented. Every essential feature, including the slingshot mechanics, bird launching, collision detection, and win/loss conditions, has been tested to ensure that they function as intended. The game now meets the fundamental objectives outlined in my initial plan.  
+
+With the basic structure complete, I will now focus on testing for the additional features that I originally wanted to include. These extra features were mentioned earlier in my analysis as potential improvements that could make the game more engaging and polished.
+
+Score system: Couldn't implement any form of score system due to the limited amount of time I had to build this project. Moving on, I hope to implement this in a system where points are assigned depending if a pig was hit or a block was hit. And also reward the player for the less amount of birds he/she used to complete a level.
+
+High Score system: Because I couldn't implement the score feature, unfortunately, i also couldn't implement a high score feature. I planned to use light weight databases like SQLite, to store scores and keep high score on a local machine. I also planned to implement the option store these scores in a globally accessed server so that friends can compare highscores on a particular level but  I also couldn implement this because it is extremely complicated dealing with network sockets and finding a server and domain.
+
+Levels: Again, due to time restraints, I couldn't program more levels, this would be easy to inmplement as all i have to do is arrange the blocks and pigs in a challenging configuration. I hope to add more levels as i further develop this game because it would make the game more engaging.
+
+Sound Effects: I hoped to have added simple sound effects but sourcing the sounds proved difficult. I didn't have the facilities to record my own sounds so i search the internet for one but didn't find any suitable sound effects. I hope to integrate sounds as i further develop so as to help make the game experience more immersive.
+
+Splash Screen: Though a splash screen was in the final game, it is the default unity splash screen, so it lacks a unique design and it also doesn't work the way i wish i though it would when i was wrtining the design section. Moving on, I hope to add my design to the splash screen and try and implement it as more as part of the game experience as i wished so in the design.
+
+Game Over Screen: The game over screen implemented in favour of a function that simply restarts the game when lost. The reasoning behind this is that they are no other levels so  there is no point in trying to code a game over screen when the next task is most likely going to be to restart. Though as i develop the gam efurther a game over screen will become an essential feature which i must implement.
+
+ Game win screen: The game win screen was implemented and works as planned but i hope to further add more features like an animation, an ingame currency to buy one more bird and a next level function if new leveks are built.
+
+
+
+
+
