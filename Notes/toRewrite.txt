@@ -1,0 +1,16 @@
+Created Game manager script to control the number of birds regenerated. It has methods to count the number of shots when the player launches a bird and also check if the number of shot exceed the maximum number of shots allowed in the level. This is to make the game competitive and challenging as preferred by my stakeholder. In the Slingshot Object, I imported the Game Object Script through the Use of a "singleton" instead of creating a serialized variable like last like i have been doing previously because unlike other objects, the Game manager will only every have one copy in the entire codebase (UNlike an Angry Bird). Thus, I dont need to import it. I used the methods of the Game Object to constantly check how many birds has been shot and if it has reached the max condition.
+
+Designed An Icon to signify the amount of Birds left. Stakeholder mentioned in the analysis section that he wanted a card-like system like the new ANgry BIrds 2 instead of birds being animated by the screenshot, like the classic game. So i decided to make an Icon system instead that shows you how many birds you have left to play which is similar to the card system.
+
+Coded an IconHandler script to darken the colour of the icons when a bird has been shot to show that the player has used a bird. I referenced the IconHandler Script in the Game Object script through a search method and implemented the function to be called when increasing the Shot NUmber.
+
+Designed the blocks sprites that the bird will break. Built a simple structure with the blocks afterwards as a level.
+
+Designed the Sprite for the piggie afterwards. Wrote a script that gives the pig a maximum health at the beginning of the game then takes away from that health when it collides with something. I also added a damage threshold because i realised that it will take damage for any small collision that occurs. I wanted to use the momentum of the collision to calculate the damage but since the objects dont have assigned masses, i just used the velocity.
+
+Wrote a game managing script that determines when the game has been won or lost. The program checks if the number of pigs in the level is zero after all the birds have been used to see if its a win or loss case. I also made the game manager check the win condition everytime a bird is launched. To test this i did a log test for the game to give me a log when it thinks the game has been won or not
+
+Next I finally programmed what will happen when the player wins or loses the game. If the player loses the game, the level reloads. while if the player win some text is added to the screen and the player has the option of restarting.
+
+I  first programmed the loss condition because it is easier, just a simple script to reload the scene. But for the win condition, I had to first design	a suitable restart screen to use.
+then I wrote a script to activate it when the player wins the game. I also wrote a script to disable the slingshot as the player should not be allowed to operate it when the game has been won. As of now, the basic game requirements have been met.
