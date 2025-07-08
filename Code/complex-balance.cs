@@ -2152,3 +2152,2651 @@ public abstract class LibraryEntity
 
           public abstract void DisplayInfo();
      }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+class Program
+     {
+          static void Main(string[] args)
+          {
+               try
+               {
+                    // Initialize library system
+                    var library = new Library();
+
+                    // Adding authors
+                    var author1 = new Author(1, "J.K. Rowling", "British author, best known for the Harry Potter series.");
+                    var author2 = new Author(2, "J.R.R. Tolkien", "English writer, known for The Lord of the Rings series.");
+                    library.AddAuthor(author1);
+                    library.AddAuthor(author2);
+
+                    // Adding books
+                    var book1 = new Book(101, "Harry Potter and the Sorcerer's Stone", author1, "Fantasy");
+                    var book2 = new Book(102, "The Hobbit", author2, "Fantasy");
+                    library.AddBook(book1);
+                    library.AddBook(book2);
+
+                    // Add a user
+                    var user = new User("Alice");
+                    library.AddUser(user);
+
+                    // Subscribing to events
+                    library.BookBorrowed += (book) => Console.WriteLine($"Event: '{book.Title}' has been borrowed.");
+                    library.BookReturned += (book) => Console.WriteLine($"Event: '{book.Title}' has been returned.");
+
+                    // Searching for books
+                    library.SearchBooks("Harry");
+
+                    // Borrow and return books
+                    library.BorrowBook(user, book1);
+                    user.DisplayBorrowedBooks();
+                    library.ReturnBook(user, book1);
+                    user.DisplayBorrowedBooks();
+
+                    // Demonstrating file handling (writing borrowed books to a file)
+                    File.WriteAllText("borrowed_books.txt", $"User: {user.Name}\nBooks Borrowed: {string.Join(", ", user.BorrowedBooks.Select(b => b.Title))}");
+                    Console.WriteLine("Borrowed books written to 'borrowed_books.txt'");
+               }
+               catch (LibraryException ex)
+               {
+                    Console.WriteLine($"Library Error: {ex.Message}");
+               }
+               catch (Exception ex)
+               {
+                    Console.WriteLine($"An unexpected error occurred: {ex.Message}");
+               }
+          }
+     }
+
+class Program
+     {
+          static void Main(string[] args)
+          {
+               try
+               {
+                    // Initialize library system
+                    var library = new Library();
+
+                    // Adding authors
+                    var author1 = new Author(1, "J.K. Rowling", "British author, best known for the Harry Potter series.");
+                    var author2 = new Author(2, "J.R.R. Tolkien", "English writer, known for The Lord of the Rings series.");
+                    library.AddAuthor(author1);
+                    library.AddAuthor(author2);
+
+                    // Adding books
+                    var book1 = new Book(101, "Harry Potter and the Sorcerer's Stone", author1, "Fantasy");
+                    var book2 = new Book(102, "The Hobbit", author2, "Fantasy");
+                    library.AddBook(book1);
+                    library.AddBook(book2);
+
+                    // Add a user
+                    var user = new User("Alice");
+                    library.AddUser(user);
+
+                    // Subscribing to events
+                    library.BookBorrowed += (book) => Console.WriteLine($"Event: '{book.Title}' has been borrowed.");
+                    library.BookReturned += (book) => Console.WriteLine($"Event: '{book.Title}' has been returned.");
+
+                    // Searching for books
+                    library.SearchBooks("Harry");
+
+                    // Borrow and return books
+                    library.BorrowBook(user, book1);
+                    user.DisplayBorrowedBooks();
+                    library.ReturnBook(user, book1);
+                    user.DisplayBorrowedBooks();
+
+                    // Demonstrating file handling (writing borrowed books to a file)
+                    File.WriteAllText("borrowed_books.txt", $"User: {user.Name}\nBooks Borrowed: {string.Join(", ", user.BorrowedBooks.Select(b => b.Title))}");
+                    Console.WriteLine("Borrowed books written to 'borrowed_books.txt'");
+               }
+               catch (LibraryException ex)
+               {
+                    Console.WriteLine($"Library Error: {ex.Message}");
+               }
+               catch (Exception ex)
+               {
+                    Console.WriteLine($"An unexpected error occurred: {ex.Message}");
+               }
+          }
+     }
+
+class Program
+     {
+          static void Main(string[] args)
+          {
+               try
+               {
+                    // Initialize library system
+                    var library = new Library();
+
+                    // Adding authors
+                    var author1 = new Author(1, "J.K. Rowling", "British author, best known for the Harry Potter series.");
+                    var author2 = new Author(2, "J.R.R. Tolkien", "English writer, known for The Lord of the Rings series.");
+                    library.AddAuthor(author1);
+                    library.AddAuthor(author2);
+
+                    // Adding books
+                    var book1 = new Book(101, "Harry Potter and the Sorcerer's Stone", author1, "Fantasy");
+                    var book2 = new Book(102, "The Hobbit", author2, "Fantasy");
+                    library.AddBook(book1);
+                    library.AddBook(book2);
+
+                    // Add a user
+                    var user = new User("Alice");
+                    library.AddUser(user);
+
+                    // Subscribing to events
+                    library.BookBorrowed += (book) => Console.WriteLine($"Event: '{book.Title}' has been borrowed.");
+                    library.BookReturned += (book) => Console.WriteLine($"Event: '{book.Title}' has been returned.");
+
+                    // Searching for books
+                    library.SearchBooks("Harry");
+
+                    // Borrow and return books
+                    library.BorrowBook(user, book1);
+                    user.DisplayBorrowedBooks();
+                    library.ReturnBook(user, book1);
+                    user.DisplayBorrowedBooks();
+
+                    // Demonstrating file handling (writing borrowed books to a file)
+                    File.WriteAllText("borrowed_books.txt", $"User: {user.Name}\nBooks Borrowed: {string.Join(", ", user.BorrowedBooks.Select(b => b.Title))}");
+                    Console.WriteLine("Borrowed books written to 'borrowed_books.txt'");
+               }
+               catch (LibraryException ex)
+               {
+                    Console.WriteLine($"Library Error: {ex.Message}");
+               }
+               catch (Exception ex)
+               {
+                    Console.WriteLine($"An unexpected error occurred: {ex.Message}");
+               }
+          }
+     }
+
+class Program
+     {
+          static void Main(string[] args)
+          {
+               try
+               {
+                    // Initialize library system
+                    var library = new Library();
+
+                    // Adding authors
+                    var author1 = new Author(1, "J.K. Rowling", "British author, best known for the Harry Potter series.");
+                    var author2 = new Author(2, "J.R.R. Tolkien", "English writer, known for The Lord of the Rings series.");
+                    library.AddAuthor(author1);
+                    library.AddAuthor(author2);
+
+                    // Adding books
+                    var book1 = new Book(101, "Harry Potter and the Sorcerer's Stone", author1, "Fantasy");
+                    var book2 = new Book(102, "The Hobbit", author2, "Fantasy");
+                    library.AddBook(book1);
+                    library.AddBook(book2);
+
+                    // Add a user
+                    var user = new User("Alice");
+                    library.AddUser(user);
+
+                    // Subscribing to events
+                    library.BookBorrowed += (book) => Console.WriteLine($"Event: '{book.Title}' has been borrowed.");
+                    library.BookReturned += (book) => Console.WriteLine($"Event: '{book.Title}' has been returned.");
+
+                    // Searching for books
+                    library.SearchBooks("Harry");
+
+                    // Borrow and return books
+                    library.BorrowBook(user, book1);
+                    user.DisplayBorrowedBooks();
+                    library.ReturnBook(user, book1);
+                    user.DisplayBorrowedBooks();
+
+                    // Demonstrating file handling (writing borrowed books to a file)
+                    File.WriteAllText("borrowed_books.txt", $"User: {user.Name}\nBooks Borrowed: {string.Join(", ", user.BorrowedBooks.Select(b => b.Title))}");
+                    Console.WriteLine("Borrowed books written to 'borrowed_books.txt'");
+               }
+               catch (LibraryException ex)
+               {
+                    Console.WriteLine($"Library Error: {ex.Message}");
+               }
+               catch (Exception ex)
+               {
+                    Console.WriteLine($"An unexpected error occurred: {ex.Message}");
+               }
+          }
+     }
+
+class Program
+     {
+          static void Main(string[] args)
+          {
+               try
+               {
+                    // Initialize library system
+                    var library = new Library();
+
+                    // Adding authors
+                    var author1 = new Author(1, "J.K. Rowling", "British author, best known for the Harry Potter series.");
+                    var author2 = new Author(2, "J.R.R. Tolkien", "English writer, known for The Lord of the Rings series.");
+                    library.AddAuthor(author1);
+                    library.AddAuthor(author2);
+
+                    // Adding books
+                    var book1 = new Book(101, "Harry Potter and the Sorcerer's Stone", author1, "Fantasy");
+                    var book2 = new Book(102, "The Hobbit", author2, "Fantasy");
+                    library.AddBook(book1);
+                    library.AddBook(book2);
+
+                    // Add a user
+                    var user = new User("Alice");
+                    library.AddUser(user);
+
+                    // Subscribing to events
+                    library.BookBorrowed += (book) => Console.WriteLine($"Event: '{book.Title}' has been borrowed.");
+                    library.BookReturned += (book) => Console.WriteLine($"Event: '{book.Title}' has been returned.");
+
+                    // Searching for books
+                    library.SearchBooks("Harry");
+
+                    // Borrow and return books
+                    library.BorrowBook(user, book1);
+                    user.DisplayBorrowedBooks();
+                    library.ReturnBook(user, book1);
+                    user.DisplayBorrowedBooks();
+
+                    // Demonstrating file handling (writing borrowed books to a file)
+                    File.WriteAllText("borrowed_books.txt", $"User: {user.Name}\nBooks Borrowed: {string.Join(", ", user.BorrowedBooks.Select(b => b.Title))}");
+                    Console.WriteLine("Borrowed books written to 'borrowed_books.txt'");
+               }
+               catch (LibraryException ex)
+               {
+                    Console.WriteLine($"Library Error: {ex.Message}");
+               }
+               catch (Exception ex)
+               {
+                    Console.WriteLine($"An unexpected error occurred: {ex.Message}");
+               }
+          }
+     }
+
+class Program
+     {
+          static void Main(string[] args)
+          {
+               try
+               {
+                    // Initialize library system
+                    var library = new Library();
+
+                    // Adding authors
+                    var author1 = new Author(1, "J.K. Rowling", "British author, best known for the Harry Potter series.");
+                    var author2 = new Author(2, "J.R.R. Tolkien", "English writer, known for The Lord of the Rings series.");
+                    library.AddAuthor(author1);
+                    library.AddAuthor(author2);
+
+                    // Adding books
+                    var book1 = new Book(101, "Harry Potter and the Sorcerer's Stone", author1, "Fantasy");
+                    var book2 = new Book(102, "The Hobbit", author2, "Fantasy");
+                    library.AddBook(book1);
+                    library.AddBook(book2);
+
+                    // Add a user
+                    var user = new User("Alice");
+                    library.AddUser(user);
+
+                    // Subscribing to events
+                    library.BookBorrowed += (book) => Console.WriteLine($"Event: '{book.Title}' has been borrowed.");
+                    library.BookReturned += (book) => Console.WriteLine($"Event: '{book.Title}' has been returned.");
+
+                    // Searching for books
+                    library.SearchBooks("Harry");
+
+                    // Borrow and return books
+                    library.BorrowBook(user, book1);
+                    user.DisplayBorrowedBooks();
+                    library.ReturnBook(user, book1);
+                    user.DisplayBorrowedBooks();
+
+                    // Demonstrating file handling (writing borrowed books to a file)
+                    File.WriteAllText("borrowed_books.txt", $"User: {user.Name}\nBooks Borrowed: {string.Join(", ", user.BorrowedBooks.Select(b => b.Title))}");
+                    Console.WriteLine("Borrowed books written to 'borrowed_books.txt'");
+               }
+               catch (LibraryException ex)
+               {
+                    Console.WriteLine($"Library Error: {ex.Message}");
+               }
+               catch (Exception ex)
+               {
+                    Console.WriteLine($"An unexpected error occurred: {ex.Message}");
+               }
+          }
+     }
+
+class Program
+     {
+          static void Main(string[] args)
+          {
+               try
+               {
+                    // Initialize library system
+                    var library = new Library();
+
+                    // Adding authors
+                    var author1 = new Author(1, "J.K. Rowling", "British author, best known for the Harry Potter series.");
+                    var author2 = new Author(2, "J.R.R. Tolkien", "English writer, known for The Lord of the Rings series.");
+                    library.AddAuthor(author1);
+                    library.AddAuthor(author2);
+
+                    // Adding books
+                    var book1 = new Book(101, "Harry Potter and the Sorcerer's Stone", author1, "Fantasy");
+                    var book2 = new Book(102, "The Hobbit", author2, "Fantasy");
+                    library.AddBook(book1);
+                    library.AddBook(book2);
+
+                    // Add a user
+                    var user = new User("Alice");
+                    library.AddUser(user);
+
+                    // Subscribing to events
+                    library.BookBorrowed += (book) => Console.WriteLine($"Event: '{book.Title}' has been borrowed.");
+                    library.BookReturned += (book) => Console.WriteLine($"Event: '{book.Title}' has been returned.");
+
+                    // Searching for books
+                    library.SearchBooks("Harry");
+
+                    // Borrow and return books
+                    library.BorrowBook(user, book1);
+                    user.DisplayBorrowedBooks();
+                    library.ReturnBook(user, book1);
+                    user.DisplayBorrowedBooks();
+
+                    // Demonstrating file handling (writing borrowed books to a file)
+                    File.WriteAllText("borrowed_books.txt", $"User: {user.Name}\nBooks Borrowed: {string.Join(", ", user.BorrowedBooks.Select(b => b.Title))}");
+                    Console.WriteLine("Borrowed books written to 'borrowed_books.txt'");
+               }
+               catch (LibraryException ex)
+               {
+                    Console.WriteLine($"Library Error: {ex.Message}");
+               }
+               catch (Exception ex)
+               {
+                    Console.WriteLine($"An unexpected error occurred: {ex.Message}");
+               }
+          }
+     }
+
+class Program
+     {
+          static void Main(string[] args)
+          {
+               try
+               {
+                    // Initialize library system
+                    var library = new Library();
+
+                    // Adding authors
+                    var author1 = new Author(1, "J.K. Rowling", "British author, best known for the Harry Potter series.");
+                    var author2 = new Author(2, "J.R.R. Tolkien", "English writer, known for The Lord of the Rings series.");
+                    library.AddAuthor(author1);
+                    library.AddAuthor(author2);
+
+                    // Adding books
+                    var book1 = new Book(101, "Harry Potter and the Sorcerer's Stone", author1, "Fantasy");
+                    var book2 = new Book(102, "The Hobbit", author2, "Fantasy");
+                    library.AddBook(book1);
+                    library.AddBook(book2);
+
+                    // Add a user
+                    var user = new User("Alice");
+                    library.AddUser(user);
+
+                    // Subscribing to events
+                    library.BookBorrowed += (book) => Console.WriteLine($"Event: '{book.Title}' has been borrowed.");
+                    library.BookReturned += (book) => Console.WriteLine($"Event: '{book.Title}' has been returned.");
+
+                    // Searching for books
+                    library.SearchBooks("Harry");
+
+                    // Borrow and return books
+                    library.BorrowBook(user, book1);
+                    user.DisplayBorrowedBooks();
+                    library.ReturnBook(user, book1);
+                    user.DisplayBorrowedBooks();
+
+                    // Demonstrating file handling (writing borrowed books to a file)
+                    File.WriteAllText("borrowed_books.txt", $"User: {user.Name}\nBooks Borrowed: {string.Join(", ", user.BorrowedBooks.Select(b => b.Title))}");
+                    Console.WriteLine("Borrowed books written to 'borrowed_books.txt'");
+               }
+               catch (LibraryException ex)
+               {
+                    Console.WriteLine($"Library Error: {ex.Message}");
+               }
+               catch (Exception ex)
+               {
+                    Console.WriteLine($"An unexpected error occurred: {ex.Message}");
+               }
+          }
+     }
+
+class Program
+     {
+          static void Main(string[] args)
+          {
+               try
+               {
+                    // Initialize library system
+                    var library = new Library();
+
+                    // Adding authors
+                    var author1 = new Author(1, "J.K. Rowling", "British author, best known for the Harry Potter series.");
+                    var author2 = new Author(2, "J.R.R. Tolkien", "English writer, known for The Lord of the Rings series.");
+                    library.AddAuthor(author1);
+                    library.AddAuthor(author2);
+
+                    // Adding books
+                    var book1 = new Book(101, "Harry Potter and the Sorcerer's Stone", author1, "Fantasy");
+                    var book2 = new Book(102, "The Hobbit", author2, "Fantasy");
+                    library.AddBook(book1);
+                    library.AddBook(book2);
+
+                    // Add a user
+                    var user = new User("Alice");
+                    library.AddUser(user);
+
+                    // Subscribing to events
+                    library.BookBorrowed += (book) => Console.WriteLine($"Event: '{book.Title}' has been borrowed.");
+                    library.BookReturned += (book) => Console.WriteLine($"Event: '{book.Title}' has been returned.");
+
+                    // Searching for books
+                    library.SearchBooks("Harry");
+
+                    // Borrow and return books
+                    library.BorrowBook(user, book1);
+                    user.DisplayBorrowedBooks();
+                    library.ReturnBook(user, book1);
+                    user.DisplayBorrowedBooks();
+
+                    // Demonstrating file handling (writing borrowed books to a file)
+                    File.WriteAllText("borrowed_books.txt", $"User: {user.Name}\nBooks Borrowed: {string.Join(", ", user.BorrowedBooks.Select(b => b.Title))}");
+                    Console.WriteLine("Borrowed books written to 'borrowed_books.txt'");
+               }
+               catch (LibraryException ex)
+               {
+                    Console.WriteLine($"Library Error: {ex.Message}");
+               }
+               catch (Exception ex)
+               {
+                    Console.WriteLine($"An unexpected error occurred: {ex.Message}");
+               }
+          }
+     }
+
+class Program
+     {
+          static void Main(string[] args)
+          {
+               try
+               {
+                    // Initialize library system
+                    var library = new Library();
+
+                    // Adding authors
+                    var author1 = new Author(1, "J.K. Rowling", "British author, best known for the Harry Potter series.");
+                    var author2 = new Author(2, "J.R.R. Tolkien", "English writer, known for The Lord of the Rings series.");
+                    library.AddAuthor(author1);
+                    library.AddAuthor(author2);
+
+                    // Adding books
+                    var book1 = new Book(101, "Harry Potter and the Sorcerer's Stone", author1, "Fantasy");
+                    var book2 = new Book(102, "The Hobbit", author2, "Fantasy");
+                    library.AddBook(book1);
+                    library.AddBook(book2);
+
+                    // Add a user
+                    var user = new User("Alice");
+                    library.AddUser(user);
+
+                    // Subscribing to events
+                    library.BookBorrowed += (book) => Console.WriteLine($"Event: '{book.Title}' has been borrowed.");
+                    library.BookReturned += (book) => Console.WriteLine($"Event: '{book.Title}' has been returned.");
+
+                    // Searching for books
+                    library.SearchBooks("Harry");
+
+                    // Borrow and return books
+                    library.BorrowBook(user, book1);
+                    user.DisplayBorrowedBooks();
+                    library.ReturnBook(user, book1);
+                    user.DisplayBorrowedBooks();
+
+                    // Demonstrating file handling (writing borrowed books to a file)
+                    File.WriteAllText("borrowed_books.txt", $"User: {user.Name}\nBooks Borrowed: {string.Join(", ", user.BorrowedBooks.Select(b => b.Title))}");
+                    Console.WriteLine("Borrowed books written to 'borrowed_books.txt'");
+               }
+               catch (LibraryException ex)
+               {
+                    Console.WriteLine($"Library Error: {ex.Message}");
+               }
+               catch (Exception ex)
+               {
+                    Console.WriteLine($"An unexpected error occurred: {ex.Message}");
+               }
+          }
+     }
+
+class Program
+     {
+          static void Main(string[] args)
+          {
+               try
+               {
+                    // Initialize library system
+                    var library = new Library();
+
+                    // Adding authors
+                    var author1 = new Author(1, "J.K. Rowling", "British author, best known for the Harry Potter series.");
+                    var author2 = new Author(2, "J.R.R. Tolkien", "English writer, known for The Lord of the Rings series.");
+                    library.AddAuthor(author1);
+                    library.AddAuthor(author2);
+
+                    // Adding books
+                    var book1 = new Book(101, "Harry Potter and the Sorcerer's Stone", author1, "Fantasy");
+                    var book2 = new Book(102, "The Hobbit", author2, "Fantasy");
+                    library.AddBook(book1);
+                    library.AddBook(book2);
+
+                    // Add a user
+                    var user = new User("Alice");
+                    library.AddUser(user);
+
+                    // Subscribing to events
+                    library.BookBorrowed += (book) => Console.WriteLine($"Event: '{book.Title}' has been borrowed.");
+                    library.BookReturned += (book) => Console.WriteLine($"Event: '{book.Title}' has been returned.");
+
+                    // Searching for books
+                    library.SearchBooks("Harry");
+
+                    // Borrow and return books
+                    library.BorrowBook(user, book1);
+                    user.DisplayBorrowedBooks();
+                    library.ReturnBook(user, book1);
+                    user.DisplayBorrowedBooks();
+
+                    // Demonstrating file handling (writing borrowed books to a file)
+                    File.WriteAllText("borrowed_books.txt", $"User: {user.Name}\nBooks Borrowed: {string.Join(", ", user.BorrowedBooks.Select(b => b.Title))}");
+                    Console.WriteLine("Borrowed books written to 'borrowed_books.txt'");
+               }
+               catch (LibraryException ex)
+               {
+                    Console.WriteLine($"Library Error: {ex.Message}");
+               }
+               catch (Exception ex)
+               {
+                    Console.WriteLine($"An unexpected error occurred: {ex.Message}");
+               }
+          }
+     }
+
+class Program
+     {
+          static void Main(string[] args)
+          {
+               try
+               {
+                    // Initialize library system
+                    var library = new Library();
+
+                    // Adding authors
+                    var author1 = new Author(1, "J.K. Rowling", "British author, best known for the Harry Potter series.");
+                    var author2 = new Author(2, "J.R.R. Tolkien", "English writer, known for The Lord of the Rings series.");
+                    library.AddAuthor(author1);
+                    library.AddAuthor(author2);
+
+                    // Adding books
+                    var book1 = new Book(101, "Harry Potter and the Sorcerer's Stone", author1, "Fantasy");
+                    var book2 = new Book(102, "The Hobbit", author2, "Fantasy");
+                    library.AddBook(book1);
+                    library.AddBook(book2);
+
+                    // Add a user
+                    var user = new User("Alice");
+                    library.AddUser(user);
+
+                    // Subscribing to events
+                    library.BookBorrowed += (book) => Console.WriteLine($"Event: '{book.Title}' has been borrowed.");
+                    library.BookReturned += (book) => Console.WriteLine($"Event: '{book.Title}' has been returned.");
+
+                    // Searching for books
+                    library.SearchBooks("Harry");
+
+                    // Borrow and return books
+                    library.BorrowBook(user, book1);
+                    user.DisplayBorrowedBooks();
+                    library.ReturnBook(user, book1);
+                    user.DisplayBorrowedBooks();
+
+                    // Demonstrating file handling (writing borrowed books to a file)
+                    File.WriteAllText("borrowed_books.txt", $"User: {user.Name}\nBooks Borrowed: {string.Join(", ", user.BorrowedBooks.Select(b => b.Title))}");
+                    Console.WriteLine("Borrowed books written to 'borrowed_books.txt'");
+               }
+               catch (LibraryException ex)
+               {
+                    Console.WriteLine($"Library Error: {ex.Message}");
+               }
+               catch (Exception ex)
+               {
+                    Console.WriteLine($"An unexpected error occurred: {ex.Message}");
+               }
+          }
+     }
+
+class Program
+     {
+          static void Main(string[] args)
+          {
+               try
+               {
+                    // Initialize library system
+                    var library = new Library();
+
+                    // Adding authors
+                    var author1 = new Author(1, "J.K. Rowling", "British author, best known for the Harry Potter series.");
+                    var author2 = new Author(2, "J.R.R. Tolkien", "English writer, known for The Lord of the Rings series.");
+                    library.AddAuthor(author1);
+                    library.AddAuthor(author2);
+
+                    // Adding books
+                    var book1 = new Book(101, "Harry Potter and the Sorcerer's Stone", author1, "Fantasy");
+                    var book2 = new Book(102, "The Hobbit", author2, "Fantasy");
+                    library.AddBook(book1);
+                    library.AddBook(book2);
+
+                    // Add a user
+                    var user = new User("Alice");
+                    library.AddUser(user);
+
+                    // Subscribing to events
+                    library.BookBorrowed += (book) => Console.WriteLine($"Event: '{book.Title}' has been borrowed.");
+                    library.BookReturned += (book) => Console.WriteLine($"Event: '{book.Title}' has been returned.");
+
+                    // Searching for books
+                    library.SearchBooks("Harry");
+
+                    // Borrow and return books
+                    library.BorrowBook(user, book1);
+                    user.DisplayBorrowedBooks();
+                    library.ReturnBook(user, book1);
+                    user.DisplayBorrowedBooks();
+
+                    // Demonstrating file handling (writing borrowed books to a file)
+                    File.WriteAllText("borrowed_books.txt", $"User: {user.Name}\nBooks Borrowed: {string.Join(", ", user.BorrowedBooks.Select(b => b.Title))}");
+                    Console.WriteLine("Borrowed books written to 'borrowed_books.txt'");
+               }
+               catch (LibraryException ex)
+               {
+                    Console.WriteLine($"Library Error: {ex.Message}");
+               }
+               catch (Exception ex)
+               {
+                    Console.WriteLine($"An unexpected error occurred: {ex.Message}");
+               }
+          }
+     }
+
+class Program
+     {
+          static void Main(string[] args)
+          {
+               try
+               {
+                    // Initialize library system
+                    var library = new Library();
+
+                    // Adding authors
+                    var author1 = new Author(1, "J.K. Rowling", "British author, best known for the Harry Potter series.");
+                    var author2 = new Author(2, "J.R.R. Tolkien", "English writer, known for The Lord of the Rings series.");
+                    library.AddAuthor(author1);
+                    library.AddAuthor(author2);
+
+                    // Adding books
+                    var book1 = new Book(101, "Harry Potter and the Sorcerer's Stone", author1, "Fantasy");
+                    var book2 = new Book(102, "The Hobbit", author2, "Fantasy");
+                    library.AddBook(book1);
+                    library.AddBook(book2);
+
+                    // Add a user
+                    var user = new User("Alice");
+                    library.AddUser(user);
+
+                    // Subscribing to events
+                    library.BookBorrowed += (book) => Console.WriteLine($"Event: '{book.Title}' has been borrowed.");
+                    library.BookReturned += (book) => Console.WriteLine($"Event: '{book.Title}' has been returned.");
+
+                    // Searching for books
+                    library.SearchBooks("Harry");
+
+                    // Borrow and return books
+                    library.BorrowBook(user, book1);
+                    user.DisplayBorrowedBooks();
+                    library.ReturnBook(user, book1);
+                    user.DisplayBorrowedBooks();
+
+                    // Demonstrating file handling (writing borrowed books to a file)
+                    File.WriteAllText("borrowed_books.txt", $"User: {user.Name}\nBooks Borrowed: {string.Join(", ", user.BorrowedBooks.Select(b => b.Title))}");
+                    Console.WriteLine("Borrowed books written to 'borrowed_books.txt'");
+               }
+               catch (LibraryException ex)
+               {
+                    Console.WriteLine($"Library Error: {ex.Message}");
+               }
+               catch (Exception ex)
+               {
+                    Console.WriteLine($"An unexpected error occurred: {ex.Message}");
+               }
+          }
+     }
+
+class Program
+     {
+          static void Main(string[] args)
+          {
+               try
+               {
+                    // Initialize library system
+                    var library = new Library();
+
+                    // Adding authors
+                    var author1 = new Author(1, "J.K. Rowling", "British author, best known for the Harry Potter series.");
+                    var author2 = new Author(2, "J.R.R. Tolkien", "English writer, known for The Lord of the Rings series.");
+                    library.AddAuthor(author1);
+                    library.AddAuthor(author2);
+
+                    // Adding books
+                    var book1 = new Book(101, "Harry Potter and the Sorcerer's Stone", author1, "Fantasy");
+                    var book2 = new Book(102, "The Hobbit", author2, "Fantasy");
+                    library.AddBook(book1);
+                    library.AddBook(book2);
+
+                    // Add a user
+                    var user = new User("Alice");
+                    library.AddUser(user);
+
+                    // Subscribing to events
+                    library.BookBorrowed += (book) => Console.WriteLine($"Event: '{book.Title}' has been borrowed.");
+                    library.BookReturned += (book) => Console.WriteLine($"Event: '{book.Title}' has been returned.");
+
+                    // Searching for books
+                    library.SearchBooks("Harry");
+
+                    // Borrow and return books
+                    library.BorrowBook(user, book1);
+                    user.DisplayBorrowedBooks();
+                    library.ReturnBook(user, book1);
+                    user.DisplayBorrowedBooks();
+
+                    // Demonstrating file handling (writing borrowed books to a file)
+                    File.WriteAllText("borrowed_books.txt", $"User: {user.Name}\nBooks Borrowed: {string.Join(", ", user.BorrowedBooks.Select(b => b.Title))}");
+                    Console.WriteLine("Borrowed books written to 'borrowed_books.txt'");
+               }
+               catch (LibraryException ex)
+               {
+                    Console.WriteLine($"Library Error: {ex.Message}");
+               }
+               catch (Exception ex)
+               {
+                    Console.WriteLine($"An unexpected error occurred: {ex.Message}");
+               }
+          }
+     }
+
+class Program
+     {
+          static void Main(string[] args)
+          {
+               try
+               {
+                    // Initialize library system
+                    var library = new Library();
+
+                    // Adding authors
+                    var author1 = new Author(1, "J.K. Rowling", "British author, best known for the Harry Potter series.");
+                    var author2 = new Author(2, "J.R.R. Tolkien", "English writer, known for The Lord of the Rings series.");
+                    library.AddAuthor(author1);
+                    library.AddAuthor(author2);
+
+                    // Adding books
+                    var book1 = new Book(101, "Harry Potter and the Sorcerer's Stone", author1, "Fantasy");
+                    var book2 = new Book(102, "The Hobbit", author2, "Fantasy");
+                    library.AddBook(book1);
+                    library.AddBook(book2);
+
+                    // Add a user
+                    var user = new User("Alice");
+                    library.AddUser(user);
+
+                    // Subscribing to events
+                    library.BookBorrowed += (book) => Console.WriteLine($"Event: '{book.Title}' has been borrowed.");
+                    library.BookReturned += (book) => Console.WriteLine($"Event: '{book.Title}' has been returned.");
+
+                    // Searching for books
+                    library.SearchBooks("Harry");
+
+                    // Borrow and return books
+                    library.BorrowBook(user, book1);
+                    user.DisplayBorrowedBooks();
+                    library.ReturnBook(user, book1);
+                    user.DisplayBorrowedBooks();
+
+                    // Demonstrating file handling (writing borrowed books to a file)
+                    File.WriteAllText("borrowed_books.txt", $"User: {user.Name}\nBooks Borrowed: {string.Join(", ", user.BorrowedBooks.Select(b => b.Title))}");
+                    Console.WriteLine("Borrowed books written to 'borrowed_books.txt'");
+               }
+               catch (LibraryException ex)
+               {
+                    Console.WriteLine($"Library Error: {ex.Message}");
+               }
+               catch (Exception ex)
+               {
+                    Console.WriteLine($"An unexpected error occurred: {ex.Message}");
+               }
+          }
+     }
+
+class Program
+     {
+          static void Main(string[] args)
+          {
+               try
+               {
+                    // Initialize library system
+                    var library = new Library();
+
+                    // Adding authors
+                    var author1 = new Author(1, "J.K. Rowling", "British author, best known for the Harry Potter series.");
+                    var author2 = new Author(2, "J.R.R. Tolkien", "English writer, known for The Lord of the Rings series.");
+                    library.AddAuthor(author1);
+                    library.AddAuthor(author2);
+
+                    // Adding books
+                    var book1 = new Book(101, "Harry Potter and the Sorcerer's Stone", author1, "Fantasy");
+                    var book2 = new Book(102, "The Hobbit", author2, "Fantasy");
+                    library.AddBook(book1);
+                    library.AddBook(book2);
+
+                    // Add a user
+                    var user = new User("Alice");
+                    library.AddUser(user);
+
+                    // Subscribing to events
+                    library.BookBorrowed += (book) => Console.WriteLine($"Event: '{book.Title}' has been borrowed.");
+                    library.BookReturned += (book) => Console.WriteLine($"Event: '{book.Title}' has been returned.");
+
+                    // Searching for books
+                    library.SearchBooks("Harry");
+
+                    // Borrow and return books
+                    library.BorrowBook(user, book1);
+                    user.DisplayBorrowedBooks();
+                    library.ReturnBook(user, book1);
+                    user.DisplayBorrowedBooks();
+
+                    // Demonstrating file handling (writing borrowed books to a file)
+                    File.WriteAllText("borrowed_books.txt", $"User: {user.Name}\nBooks Borrowed: {string.Join(", ", user.BorrowedBooks.Select(b => b.Title))}");
+                    Console.WriteLine("Borrowed books written to 'borrowed_books.txt'");
+               }
+               catch (LibraryException ex)
+               {
+                    Console.WriteLine($"Library Error: {ex.Message}");
+               }
+               catch (Exception ex)
+               {
+                    Console.WriteLine($"An unexpected error occurred: {ex.Message}");
+               }
+          }
+     }
+
+class Program
+     {
+          static void Main(string[] args)
+          {
+               try
+               {
+                    // Initialize library system
+                    var library = new Library();
+
+                    // Adding authors
+                    var author1 = new Author(1, "J.K. Rowling", "British author, best known for the Harry Potter series.");
+                    var author2 = new Author(2, "J.R.R. Tolkien", "English writer, known for The Lord of the Rings series.");
+                    library.AddAuthor(author1);
+                    library.AddAuthor(author2);
+
+                    // Adding books
+                    var book1 = new Book(101, "Harry Potter and the Sorcerer's Stone", author1, "Fantasy");
+                    var book2 = new Book(102, "The Hobbit", author2, "Fantasy");
+                    library.AddBook(book1);
+                    library.AddBook(book2);
+
+                    // Add a user
+                    var user = new User("Alice");
+                    library.AddUser(user);
+
+                    // Subscribing to events
+                    library.BookBorrowed += (book) => Console.WriteLine($"Event: '{book.Title}' has been borrowed.");
+                    library.BookReturned += (book) => Console.WriteLine($"Event: '{book.Title}' has been returned.");
+
+                    // Searching for books
+                    library.SearchBooks("Harry");
+
+                    // Borrow and return books
+                    library.BorrowBook(user, book1);
+                    user.DisplayBorrowedBooks();
+                    library.ReturnBook(user, book1);
+                    user.DisplayBorrowedBooks();
+
+                    // Demonstrating file handling (writing borrowed books to a file)
+                    File.WriteAllText("borrowed_books.txt", $"User: {user.Name}\nBooks Borrowed: {string.Join(", ", user.BorrowedBooks.Select(b => b.Title))}");
+                    Console.WriteLine("Borrowed books written to 'borrowed_books.txt'");
+               }
+               catch (LibraryException ex)
+               {
+                    Console.WriteLine($"Library Error: {ex.Message}");
+               }
+               catch (Exception ex)
+               {
+                    Console.WriteLine($"An unexpected error occurred: {ex.Message}");
+               }
+          }
+     }
+
+class Program
+     {
+          static void Main(string[] args)
+          {
+               try
+               {
+                    // Initialize library system
+                    var library = new Library();
+
+                    // Adding authors
+                    var author1 = new Author(1, "J.K. Rowling", "British author, best known for the Harry Potter series.");
+                    var author2 = new Author(2, "J.R.R. Tolkien", "English writer, known for The Lord of the Rings series.");
+                    library.AddAuthor(author1);
+                    library.AddAuthor(author2);
+
+                    // Adding books
+                    var book1 = new Book(101, "Harry Potter and the Sorcerer's Stone", author1, "Fantasy");
+                    var book2 = new Book(102, "The Hobbit", author2, "Fantasy");
+                    library.AddBook(book1);
+                    library.AddBook(book2);
+
+                    // Add a user
+                    var user = new User("Alice");
+                    library.AddUser(user);
+
+                    // Subscribing to events
+                    library.BookBorrowed += (book) => Console.WriteLine($"Event: '{book.Title}' has been borrowed.");
+                    library.BookReturned += (book) => Console.WriteLine($"Event: '{book.Title}' has been returned.");
+
+                    // Searching for books
+                    library.SearchBooks("Harry");
+
+                    // Borrow and return books
+                    library.BorrowBook(user, book1);
+                    user.DisplayBorrowedBooks();
+                    library.ReturnBook(user, book1);
+                    user.DisplayBorrowedBooks();
+
+                    // Demonstrating file handling (writing borrowed books to a file)
+                    File.WriteAllText("borrowed_books.txt", $"User: {user.Name}\nBooks Borrowed: {string.Join(", ", user.BorrowedBooks.Select(b => b.Title))}");
+                    Console.WriteLine("Borrowed books written to 'borrowed_books.txt'");
+               }
+               catch (LibraryException ex)
+               {
+                    Console.WriteLine($"Library Error: {ex.Message}");
+               }
+               catch (Exception ex)
+               {
+                    Console.WriteLine($"An unexpected error occurred: {ex.Message}");
+               }
+          }
+     }
+
+class Program
+     {
+          static void Main(string[] args)
+          {
+               try
+               {
+                    // Initialize library system
+                    var library = new Library();
+
+                    // Adding authors
+                    var author1 = new Author(1, "J.K. Rowling", "British author, best known for the Harry Potter series.");
+                    var author2 = new Author(2, "J.R.R. Tolkien", "English writer, known for The Lord of the Rings series.");
+                    library.AddAuthor(author1);
+                    library.AddAuthor(author2);
+
+                    // Adding books
+                    var book1 = new Book(101, "Harry Potter and the Sorcerer's Stone", author1, "Fantasy");
+                    var book2 = new Book(102, "The Hobbit", author2, "Fantasy");
+                    library.AddBook(book1);
+                    library.AddBook(book2);
+
+                    // Add a user
+                    var user = new User("Alice");
+                    library.AddUser(user);
+
+                    // Subscribing to events
+                    library.BookBorrowed += (book) => Console.WriteLine($"Event: '{book.Title}' has been borrowed.");
+                    library.BookReturned += (book) => Console.WriteLine($"Event: '{book.Title}' has been returned.");
+
+                    // Searching for books
+                    library.SearchBooks("Harry");
+
+                    // Borrow and return books
+                    library.BorrowBook(user, book1);
+                    user.DisplayBorrowedBooks();
+                    library.ReturnBook(user, book1);
+                    user.DisplayBorrowedBooks();
+
+                    // Demonstrating file handling (writing borrowed books to a file)
+                    File.WriteAllText("borrowed_books.txt", $"User: {user.Name}\nBooks Borrowed: {string.Join(", ", user.BorrowedBooks.Select(b => b.Title))}");
+                    Console.WriteLine("Borrowed books written to 'borrowed_books.txt'");
+               }
+               catch (LibraryException ex)
+               {
+                    Console.WriteLine($"Library Error: {ex.Message}");
+               }
+               catch (Exception ex)
+               {
+                    Console.WriteLine($"An unexpected error occurred: {ex.Message}");
+               }
+          }
+     }
+
+class Program
+     {
+          static void Main(string[] args)
+          {
+               try
+               {
+                    // Initialize library system
+                    var library = new Library();
+
+                    // Adding authors
+                    var author1 = new Author(1, "J.K. Rowling", "British author, best known for the Harry Potter series.");
+                    var author2 = new Author(2, "J.R.R. Tolkien", "English writer, known for The Lord of the Rings series.");
+                    library.AddAuthor(author1);
+                    library.AddAuthor(author2);
+
+                    // Adding books
+                    var book1 = new Book(101, "Harry Potter and the Sorcerer's Stone", author1, "Fantasy");
+                    var book2 = new Book(102, "The Hobbit", author2, "Fantasy");
+                    library.AddBook(book1);
+                    library.AddBook(book2);
+
+                    // Add a user
+                    var user = new User("Alice");
+                    library.AddUser(user);
+
+                    // Subscribing to events
+                    library.BookBorrowed += (book) => Console.WriteLine($"Event: '{book.Title}' has been borrowed.");
+                    library.BookReturned += (book) => Console.WriteLine($"Event: '{book.Title}' has been returned.");
+
+                    // Searching for books
+                    library.SearchBooks("Harry");
+
+                    // Borrow and return books
+                    library.BorrowBook(user, book1);
+                    user.DisplayBorrowedBooks();
+                    library.ReturnBook(user, book1);
+                    user.DisplayBorrowedBooks();
+
+                    // Demonstrating file handling (writing borrowed books to a file)
+                    File.WriteAllText("borrowed_books.txt", $"User: {user.Name}\nBooks Borrowed: {string.Join(", ", user.BorrowedBooks.Select(b => b.Title))}");
+                    Console.WriteLine("Borrowed books written to 'borrowed_books.txt'");
+               }
+               catch (LibraryException ex)
+               {
+                    Console.WriteLine($"Library Error: {ex.Message}");
+               }
+               catch (Exception ex)
+               {
+                    Console.WriteLine($"An unexpected error occurred: {ex.Message}");
+               }
+          }
+     }
+
+class Program
+     {
+          static void Main(string[] args)
+          {
+               try
+               {
+                    // Initialize library system
+                    var library = new Library();
+
+                    // Adding authors
+                    var author1 = new Author(1, "J.K. Rowling", "British author, best known for the Harry Potter series.");
+                    var author2 = new Author(2, "J.R.R. Tolkien", "English writer, known for The Lord of the Rings series.");
+                    library.AddAuthor(author1);
+                    library.AddAuthor(author2);
+
+                    // Adding books
+                    var book1 = new Book(101, "Harry Potter and the Sorcerer's Stone", author1, "Fantasy");
+                    var book2 = new Book(102, "The Hobbit", author2, "Fantasy");
+                    library.AddBook(book1);
+                    library.AddBook(book2);
+
+                    // Add a user
+                    var user = new User("Alice");
+                    library.AddUser(user);
+
+                    // Subscribing to events
+                    library.BookBorrowed += (book) => Console.WriteLine($"Event: '{book.Title}' has been borrowed.");
+                    library.BookReturned += (book) => Console.WriteLine($"Event: '{book.Title}' has been returned.");
+
+                    // Searching for books
+                    library.SearchBooks("Harry");
+
+                    // Borrow and return books
+                    library.BorrowBook(user, book1);
+                    user.DisplayBorrowedBooks();
+                    library.ReturnBook(user, book1);
+                    user.DisplayBorrowedBooks();
+
+                    // Demonstrating file handling (writing borrowed books to a file)
+                    File.WriteAllText("borrowed_books.txt", $"User: {user.Name}\nBooks Borrowed: {string.Join(", ", user.BorrowedBooks.Select(b => b.Title))}");
+                    Console.WriteLine("Borrowed books written to 'borrowed_books.txt'");
+               }
+               catch (LibraryException ex)
+               {
+                    Console.WriteLine($"Library Error: {ex.Message}");
+               }
+               catch (Exception ex)
+               {
+                    Console.WriteLine($"An unexpected error occurred: {ex.Message}");
+               }
+          }
+     }
+
+class Program
+     {
+          static void Main(string[] args)
+          {
+               try
+               {
+                    // Initialize library system
+                    var library = new Library();
+
+                    // Adding authors
+                    var author1 = new Author(1, "J.K. Rowling", "British author, best known for the Harry Potter series.");
+                    var author2 = new Author(2, "J.R.R. Tolkien", "English writer, known for The Lord of the Rings series.");
+                    library.AddAuthor(author1);
+                    library.AddAuthor(author2);
+
+                    // Adding books
+                    var book1 = new Book(101, "Harry Potter and the Sorcerer's Stone", author1, "Fantasy");
+                    var book2 = new Book(102, "The Hobbit", author2, "Fantasy");
+                    library.AddBook(book1);
+                    library.AddBook(book2);
+
+                    // Add a user
+                    var user = new User("Alice");
+                    library.AddUser(user);
+
+                    // Subscribing to events
+                    library.BookBorrowed += (book) => Console.WriteLine($"Event: '{book.Title}' has been borrowed.");
+                    library.BookReturned += (book) => Console.WriteLine($"Event: '{book.Title}' has been returned.");
+
+                    // Searching for books
+                    library.SearchBooks("Harry");
+
+                    // Borrow and return books
+                    library.BorrowBook(user, book1);
+                    user.DisplayBorrowedBooks();
+                    library.ReturnBook(user, book1);
+                    user.DisplayBorrowedBooks();
+
+                    // Demonstrating file handling (writing borrowed books to a file)
+                    File.WriteAllText("borrowed_books.txt", $"User: {user.Name}\nBooks Borrowed: {string.Join(", ", user.BorrowedBooks.Select(b => b.Title))}");
+                    Console.WriteLine("Borrowed books written to 'borrowed_books.txt'");
+               }
+               catch (LibraryException ex)
+               {
+                    Console.WriteLine($"Library Error: {ex.Message}");
+               }
+               catch (Exception ex)
+               {
+                    Console.WriteLine($"An unexpected error occurred: {ex.Message}");
+               }
+          }
+     }
+
