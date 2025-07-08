@@ -495,3 +495,1660 @@ namespace LibraryManagementSystem
           }
      }
 }
+
+
+//ERRR
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
+
+
+public abstract class LibraryEntity
+     {
+          public int Id { get; set; }
+          public string Title { get; set; }
+
+          protected LibraryEntity(int id, string title)
+          {
+               Id = id;
+               Title = title;
+          }
+
+          public abstract void DisplayInfo();
+     }
