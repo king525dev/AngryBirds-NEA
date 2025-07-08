@@ -93,7 +93,7 @@ This version offers the original mechanics, bringing back the fun with birds, pi
 
 1. **Download the Game:**
 
-   * \[Download Link](https://github.com/king525dev/AngryBirds-NEA/releases/tag/v0.0.1)
+   * [Download Link](https://github.com/king525dev/AngryBirds-NEA/releases/tag/v0.0.1)
 
 2. **Extract Files:**
 
