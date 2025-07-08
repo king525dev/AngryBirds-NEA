@@ -1,0 +1,60 @@
+This is the interview i had with the stakeholder: 
+
+"""
+Q: To start, how many different birds do you think should be made for the bare requirements of the game?
+A: I think just adding "Red", the original bird with no special abilities, would be enough to start. We can always introduce more birds with abilities as the game progresses.
+
+Q:  Should these birds have unique abilities like in the classic game?
+A: Yes, as the game progresses, introducing birds with unique abilities will definitely add variety and keep it interesting.
+
+Q:  What other features would you want the birds to have?
+A:  Keep them mostly the same as the original. People already like the way they are, and it worked well before, so no need to reinvent the wheel there.
+
+Q: Is a score panel a key element for the game, or do you think the game could work without it?
+A: It’s nice to have, but not essential for the bare bones of the game. The main thing is that I can fling birds at pigs and eliminate them. The score is more like motivation to replay a level or compare with friends. If you are implementing the score panel though, I think that you should make it so that you can compare scores on different levels with people all over the world or at least your friends.
+
+Q:  How important is a high score panel to keep players engaged?
+A: It’s not essential but would be awesome to have. I used to love comparing my high scores with friends, and it definitely made the game more competitive. But first, focus on the core gameplay, then add this.
+
+Q: Should this be a feature, and how would you like it displayed? (Global leaderboard, personal best?)
+A: Both would be great! It’s always fun to see a personal best, but having a global leaderboard adds that extra competitive edge.
+
+Q:  What else must absolutely be included for this to feel like a complete Angry Birds game?
+A: It just needs to be a cool puzzle game where I fling birds at pigs and deal with a few obstacles in between. That’s what makes Angry Birds great for me.
+
+Q: Having played Angry Birds Classic before, what changes would you wish to see design-wise?
+A: I think the new "Angry Birds 2" is a bit too animated for my liking. I prefer the simplicity of the original. But I do like how in "Angry Birds 2" the birds are shown in a bar on the screen—it’s nice to see all the birds lined up like that rather than how it is in the classic.
+
+Q:  Should the game be more realistic, or should it keep its original cartoonish style?
+A:  Keep it cartoonish. I don’t want it looking like the Minecraft movie
+
+Q:  How important is the look of the birds and pigs in enhancing the player's experience?
+A:  Very important. I think they already look good, so no need to change their art style much. The original design worked really well.
+
+Q:  Would you like the backgrounds and levels to be more interactive or dynamic in nature?
+A:  Yeah, a static background could look boring after a while. Maybe a background with trees and some movement to make it more interesting.
+
+Q: What sort of animations or visual elements would you want to see?
+A: Keep the animations similar to the classic game. Nothing too fancy.
+
+Q: Should there be more exaggerated reactions when pigs are popped or blocks are destroyed?
+A: Nah, keep it simple. The reactions in the classic game were fun without being over the top.
+
+Q: Should the game feature more detailed environments, weather effects, or lighting changes?
+A: It would be nice, but it risks making the game look too much like Angry Birds 2. So, be careful with adding too many effects.
+
+Q: Should the game physics be more realistic, or do you prefer the exaggerated, cartoonish physics from the original?
+A:  I like the cartoonish physics, but the only thing I didn’t like was how the birds lost all their momentum when hitting a block. It gets kinda annoying. Maybe tweak that a bit.
+
+Q: Should bird flight paths be affected by environmental factors like wind, or would that complicate things?
+A: No, please don’t add wind resistance. It would make things unnecessarily difficult.
+
+Q:  Should blocks break more realistically based on their material type, like wood versus stone?
+A:  Yeah, I think that would be cool. Blocks should definitely break differently depending on their material.
+
+Q: Should birds interact differently with various obstacles or environments (e.g., water, ice, etc.)?
+A: That would be harder to implement, but yeah, it would be good to see birds interact differently with different materials.
+
+"""
+
+Use this to come up with features the stake holder will agree with in the following development paragraphs
