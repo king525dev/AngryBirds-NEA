@@ -1,1 +1,12 @@
-/Code
+/Code/AngryBirds/Library
+/Code/AngryBirds/Logs
+/Code/AngryBirds/obj
+/Code/AngryBirds/out
+/Code/AngryBirds/Packages
+/Code/AngryBirds/ProjectSettings
+/Code/AngryBirds/UserSettings
+/Code/AngryBirds/.vsconfig
+/Code/AngryBirds/Angry Birds.sln
+/Code/AngryBirds/Assembly-CSharp-firstpass.csproj
+/Code/AngryBirds/Assembly-CSharp.csproj
+/Code/AngryBirds/UpgradeLog.htm
